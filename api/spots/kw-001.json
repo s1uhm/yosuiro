@@ -1,12 +1,12 @@
 {
   "id": "kw-001",
   "lang": "ja",
-  "is_fallback": false,
+  "isFallback": false,
   "name": "泉用水",
-  "canal_name": "泉用水",
+  "canalName": "泉用水",
   "description": "藩政初期からある農業用水で犀川から取水し、旧石川郡米丸村増泉、三馬村泉、同西泉の田畑をうるおしていた。本支流とも細かく枝分かれして今も町中を流れている。",
   "lat": 36.55818,
   "lng": 136.647605,
   "media": [],
-  "updated_at": "2026-10-30T14:10:23+09:00"
+  "updatedAt": "アップデートした日付"
 }
